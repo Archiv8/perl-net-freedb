@@ -32,7 +32,6 @@ depends=(
 
   # Archiv8 / AUR packages
   "perl-cddb-file"
-
 )
 options=("!emptydirs" purge)
 source=(
