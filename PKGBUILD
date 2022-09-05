@@ -11,8 +11,8 @@
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
 
-# Maintainer: Ross Clark <archiv8@artisteducator.com>
-# Contributor: Ross Clark <archiv8@artisteducator.com>
+# Maintainer: Ross Clark <https://github.com/Archiv8/perl-net-freedb/discussions>
+# Contributor: Ross Clark <https://github.com/Archiv8/perl-net-freedb/discussions>
 
 _relname="Net-FreeDB"
 
